@@ -1,0 +1,14 @@
+.rectangle-input {
+    border: none;
+    outline: none;
+    border: 2px solid #ccc;
+    border-radius: 0; 
+    width: 40px;
+    height: 40px;
+    /* padding: 8px;
+    margin: 8px; */
+    font-size: 14px;
+    color: #333;
+    background-color: #fff;
+  }
+  
